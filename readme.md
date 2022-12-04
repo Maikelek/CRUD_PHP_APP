@@ -7,8 +7,7 @@ Application for manipulating with database of users written in PHP. Application 
 | Technology
 | -------------    
 | PHP      
-| Bootstrap       
-| React        
+| Bootstrap            
 | SQL       
 
 
