@@ -20,3 +20,5 @@ if(isset($_POST['remove']))
         exit(0);
     }
 }
+
+?>
